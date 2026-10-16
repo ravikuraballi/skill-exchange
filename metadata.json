@@ -1,0 +1,6 @@
+{
+  "name": "SkillSwap",
+  "description": "Student skill exchange mobile app to teach, learn, swap skills and connect with college peers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
